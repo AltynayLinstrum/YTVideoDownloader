@@ -5,7 +5,7 @@
   <li> - Python </li>
   <li> - PyTube </li>
 </ul>
- <h3> Improvements for Future Iterations: </h3>
+ <h3> Future Improvements </h3>
 <ul>
   <li> Implement a GUI interface for the app </li>
   <li> Add support for downloading videos in different formats </li>
